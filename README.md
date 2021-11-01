@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[Github](https://github.com/AleksArnau)
+<a href="https://github.com/AleksArnau" target="_blank">Github</a>
 
-[LinkedIn](https://www.linkedin.com/in/aleksarnau/)
+<a href="https://www.linkedin.com/in/aleksarnau/" target="_blank">LinkedIn</a>
 
 I'm currently learning JavaScript and HTML/CSS to eventually make a website in React
 
