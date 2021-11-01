@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 [Github](https://github.com/AleksArnau)
-[LinkedIn](www.linkedin.com/in/aleksarnau)
+
+[LinkedIn](https://www.linkedin.com/in/aleksarnau/)
+
+I'm currently learning JavaScript and HTML/CSS to eventually make a website in React
 
 
 <!--
