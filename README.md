@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<a href="https://github.com/AleksArnau" target="_blank">Github</a>
+🌱 I’m currently learning React
 
-<a href="https://www.linkedin.com/in/aleksarnau/" target="_blank">LinkedIn</a>
-
-I'm currently learning JavaScript and HTML/CSS to eventually make a website in React
-
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksarnau) [GitHub](https://github.com/AleksArnau) [E-Mail](mailto:aleksandar96hotmail.fr)
 
 <!--
 **AleksArnau/AleksArnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
