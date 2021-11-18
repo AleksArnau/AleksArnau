@@ -2,7 +2,11 @@
 
 🌱 I’m currently learning React
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksarnau) [GitHub](https://github.com/AleksArnau) [E-Mail](mailto:aleksandar96hotmail.fr)
+⚒️ I’m currently looking for an apprentice developer position in France
+
+🦜 Contact me:
+
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub)](https://github.com/AleksArnau) [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/aleksarnau) [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr) ![Discord](https://img.shields.io/badge/Choveck%236619--_.svg?style=social&logo=Discord)
 
 <!--
 **AleksArnau/AleksArnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
