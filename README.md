@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React
+🌱 I’m currently learning HTML/CSS/Javascript in my classes
 
-⚒️ I’m currently looking for an apprentice developer position in France
+⚒️ I’m currently working as an apprentice web developper in France until March 2023
 
 🦜 Contact me:
 
