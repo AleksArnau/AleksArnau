@@ -6,11 +6,11 @@
 
 🦜 Contact me:
 
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub)](https://github.com/AleksArnau) [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/aleksarnau) [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr) <!--[![Discord](https://img.shields.io/badge/Choveck%236619--_.svg?style=social&logo=Discord)](#)-->
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub)](https://github.com/AleksArnau) [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/aleksarnau) [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr)
 
 <!--
 **AleksArnau/AleksArnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ [![Discord](https://img.shields.io/badge/Choveck%236619--_.svg?style=social&logo=Discord)](#)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
