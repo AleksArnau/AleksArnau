@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-🌱 I’m currently learning HTML/CSS/Javascript in my classes
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub)](https://github.com/AleksArnau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/aleksarnau)
+[![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr)
 
-⚒️ I’m currently working as an apprentice web developper in France until March 2023
+🌱 I’m currently learning JavaScript, HTML, and CSS
 
-🦜 Contact me:
-
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub)](https://github.com/AleksArnau) [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/aleksarnau) [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr)
-
-<!--
-**AleksArnau/AleksArnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- [![Discord](https://img.shields.io/badge/Choveck%236619--_.svg?style=social&logo=Discord)](#)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚒️ I’m working as an Apprentice Web Developer in France
