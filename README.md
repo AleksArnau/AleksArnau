@@ -3,3 +3,5 @@
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr)
 
 Apprentice web developper working for UPV
+
+JavaScript, React, Node, HTML, CSS, Python, MySQL, Wordpress
