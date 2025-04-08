@@ -4,4 +4,4 @@
 
 Apprentice web developper working for UPV
 
-JavaScript, React, Node, HTML, CSS, Python, MySQL, Wordpress
+JavaScript, React, Node.js, HTML, CSS, Sass, Python, MySQL, WordPress
