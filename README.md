@@ -2,6 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/aleksarnau)
 [![Email](https://img.shields.io/badge/Email--_.svg?style=social&logo=Gmail)](mailto:aleksandar96hotmail.fr)
 
-Apprentice web developper working for UPV
+Web Dev
 
 JavaScript, React, Node.js, HTML, CSS, Sass, Python, MySQL, WordPress
